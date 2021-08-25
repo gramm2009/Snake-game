@@ -1,1 +1,1 @@
-# js1
+# Snake game
